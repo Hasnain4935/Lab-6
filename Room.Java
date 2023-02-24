@@ -27,3 +27,4 @@ public class Room {
         Room a1 = new Room(101, "OOP lab room", 500.5f, true);
         a1.display();
     }
+}
